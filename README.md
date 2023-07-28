@@ -28,7 +28,9 @@ ___
 Node version 14.x
 
 ## Cloning the repository
+```
 git clone https://github.com/itssarath-28/chat-app.git
+```
 
 ## Install packages
 ```
